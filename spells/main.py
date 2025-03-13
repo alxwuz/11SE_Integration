@@ -1,0 +1,3 @@
+from spellbook import *
+
+main()
